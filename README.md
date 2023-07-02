@@ -1,4 +1,4 @@
-# Fingerprint Based Biometric Attendance System
+# Fingerprint Based Biometric Attendance System (Web App)
 
 * **Login Screen**
 <p align="center">
